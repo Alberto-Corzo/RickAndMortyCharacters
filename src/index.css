@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    backdrop-filter: blur(20px); 
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+}
